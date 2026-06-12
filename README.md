@@ -8,4 +8,4 @@ Engineering and technical experience including:
 
 ## Resume
 
-- Jayden_Fernandes_Resume.pdf
+[Jayden_Fernandes_Resume.pdf](https://github.com/user-attachments/files/28859687/Jayden_Fernandes_Resume.pdf)
