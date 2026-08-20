@@ -24,6 +24,8 @@ Python-based engineering calculators for DC power, 4–20 mA loop scaling, RC ti
 - Python
 - Arduino / embedded systems
 - Raspberry Pi
+- Claude Code
+- GitHub Copilot
 - LTspice / Ngspice
 - Signal conditioning and sensor interfaces
 - SolidWorks CAD modeling
