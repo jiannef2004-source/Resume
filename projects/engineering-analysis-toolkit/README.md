@@ -16,7 +16,3 @@ A small Python/Streamlit toolkit for transparent electrical-engineering calculat
 pip install streamlit
 streamlit run app/main.py
 ```
-
-## AI-assisted development
-
-If Claude Code or GitHub Copilot is used to modify this project, document the actual changes and dates truthfully in an AI development log.
