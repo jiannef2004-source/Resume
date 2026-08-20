@@ -13,7 +13,3 @@ An Arduino Mega 2560 project that combines skin-conductance (GSR) input, TMP36 t
 ## Important limitation
 
 This is an educational biofeedback project, not a validated lie detector or medical device. Physiological changes are not reliable proof of deception and should not be used for consequential decisions.
-
-## AI-assisted development
-
-If Claude Code or GitHub Copilot is used to extend this project, meaningful changes should be recorded truthfully in an AI development log.
