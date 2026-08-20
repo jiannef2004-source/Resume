@@ -14,7 +14,3 @@ A lightweight Python speedometer for Raspberry Pi that reads standard NMEA GPS d
 
 - Raspberry Pi (or any computer running Python 3.10+)
 - USB GPS receiver that outputs NMEA data
-
-## AI-assisted development
-
-If Claude Code or GitHub Copilot is used to extend this project, meaningful changes should be recorded in `AI_DEVELOPMENT_LOG.md`. Only actual tool usage should be documented.
