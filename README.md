@@ -21,7 +21,6 @@ Python-based engineering calculators for DC power, 4–20 mA loop scaling, RC ti
 
 ## Tools and Technical Areas
 
-- Claude Code and GitHub Copilot for AI-assisted coding workflows
 - Python
 - Arduino / embedded systems
 - Raspberry Pi
@@ -32,5 +31,3 @@ Python-based engineering calculators for DC power, 4–20 mA loop scaling, RC ti
 ## Resume
 
 [Jayden_Fernandes_Resume.pdf](https://github.com/user-attachments/files/28859687/Jayden_Fernandes_Resume.pdf)
-
-> Note: AI-tool usage should be represented only where it reflects actual hands-on work. Project history and dates should not be inferred from repository publication dates alone.
